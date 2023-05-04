@@ -14,7 +14,7 @@ Create and fill `.env` file
 ```bash
 REACT_APP_RAPID_API_KEY=<YOUR_API_KEY>
 ```
-You can grab your `API Key` from RapidAPI site [https://rapidapi.com/ytdlfree/api/youtube-v31](here)
+You can grab your `API Key` from RapidAPI site [here](https://rapidapi.com/ytdlfree/api/youtube-v31)
 Then run dev server and test
 ```bash
 npm start
